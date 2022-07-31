@@ -4,6 +4,7 @@
         "atomic": "cpp",
         "cstdint": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "cstring": "cpp"
     }
 }
